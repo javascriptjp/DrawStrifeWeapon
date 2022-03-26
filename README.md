@@ -1,8 +1,7 @@
 # DrawStrifeWeapon.js
+※Strife dev teamが作成したものではありません
 ## contact: Soso#2822
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K1AQ3A3)
-
-※Strife dev teamが作成したものではありません
 # How to use
 ```
 npm i canvas
