@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "canvas": "^2.9.1"
+  },
+  "name": "draw_strife_weapon",
+  "description": "DrawStrifeWeapon png/buffer",
+  "version": "1.0.0",
+  "main": "DrawStrifeWeapon.min.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soso#2822",
+  "license": "MIT"
+}
